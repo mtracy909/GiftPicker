@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mstra\\OneDrive\\Desktop\\GiftPicker\\GiftPicker.csproj": {}
+    "C:\\Users\\mstra\\OneDrive\\Desktop\\gift_picker\\GiftPicker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mstra\\OneDrive\\Desktop\\GiftPicker\\GiftPicker.csproj": {
+    "C:\\Users\\mstra\\OneDrive\\Desktop\\gift_picker\\GiftPicker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mstra\\OneDrive\\Desktop\\GiftPicker\\GiftPicker.csproj",
+        "projectUniqueName": "C:\\Users\\mstra\\OneDrive\\Desktop\\gift_picker\\GiftPicker.csproj",
         "projectName": "GiftPicker",
-        "projectPath": "C:\\Users\\mstra\\OneDrive\\Desktop\\GiftPicker\\GiftPicker.csproj",
+        "projectPath": "C:\\Users\\mstra\\OneDrive\\Desktop\\gift_picker\\GiftPicker.csproj",
         "packagesPath": "C:\\Users\\mstra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mstra\\OneDrive\\Desktop\\GiftPicker\\obj\\",
+        "outputPath": "C:\\Users\\mstra\\OneDrive\\Desktop\\gift_picker\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mstra\\AppData\\Roaming\\NuGet\\NuGet.Config"

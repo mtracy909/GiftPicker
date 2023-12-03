@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bKODgxrUtguFaUD7UBhpt/SGirR63CZoZEmP3mndktNx13aeENf7wb3beBEdfWHXXbJ/zUfplvnboNq+zg/BHw==",
+  "dgSpecHash": "VSLOFYAWGuaV3bzkzp3P265lorN/rOakZDxosMWF/EyYKAPJt1kT43mqRhlzHAiMrw07JjodD4SrZ8OO8FS7Iw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mstra\\OneDrive\\Desktop\\GiftPicker\\GiftPicker.csproj",
+  "projectFilePath": "C:\\Users\\mstra\\OneDrive\\Desktop\\gift_picker\\GiftPicker.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
